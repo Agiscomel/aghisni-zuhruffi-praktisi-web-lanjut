@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  background: #0a2558;
+}
+
+.contain {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 500px;
+  box-shadow: 20px 10px 30px rgba(0, 0, 0, 0.6);
+}
+.card-body h1 {
+  text-align: center;
+  color: #0a2558;
+}
+p {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
